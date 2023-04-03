@@ -22,20 +22,11 @@
                                 <nil key="textColor"/>
                                 <nil key="highlightedColor"/>
                             </label>
-                            <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="Hqq-qO-p45">
-                                <rect key="frame" x="159" y="408.66666666666669" width="75" height="35"/>
-                                <state key="normal" title="Button"/>
-                                <buttonConfiguration key="configuration" style="plain" title="Button">
-                                    <color key="baseForegroundColor" red="0.92128556969999997" green="0.49744872200000001" blue="0.37532465100000001" alpha="1" colorSpace="custom" customColorSpace="displayP3"/>
-                                </buttonConfiguration>
-                            </button>
                         </subviews>
                         <viewLayoutGuide key="safeArea" id="6Tk-OE-BBY"/>
                         <color key="backgroundColor" systemColor="systemBackgroundColor"/>
                         <constraints>
                             <constraint firstItem="MrM-PE-ERk" firstAttribute="centerX" secondItem="8bC-Xf-vdC" secondAttribute="centerX" id="8nC-4M-f8U"/>
-                            <constraint firstItem="Hqq-qO-p45" firstAttribute="centerY" secondItem="8bC-Xf-vdC" secondAttribute="centerY" id="Jpw-cF-ZjG"/>
-                            <constraint firstItem="Hqq-qO-p45" firstAttribute="centerX" secondItem="8bC-Xf-vdC" secondAttribute="centerX" id="LGX-pG-Ifa"/>
                             <constraint firstItem="MrM-PE-ERk" firstAttribute="centerY" secondItem="8bC-Xf-vdC" secondAttribute="centerY" id="pXT-oT-Pxl"/>
                         </constraints>
                     </view>
